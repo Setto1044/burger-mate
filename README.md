@@ -33,6 +33,15 @@
 
 ---
 
+
+## 📊 전처리 데이터 청크 사이즈 별 성능 비교
+
+<p align="center">
+  <img src="/images/청크사이즈별.png" alt="청크 사이즈별 성능 평가" width="60%">
+</p>
+
+---
+
 ## 📊 임베딩 모델 성능 평가
 
 <p align="center">
