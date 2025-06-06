@@ -2,7 +2,7 @@
 ## 알레르기 기반 햄버거 추천 챗봇 & 리트리버 성능 평가
 
 <p align="center">
-  <img src="/uploads/리트리버성능평가.png" alt="리트리버 성능 평가" width="70%">
+  <img src="/images/리트리버성능평가.png" alt="리트리버 성능 평가" width="70%">
 </p>
 
 **BurgerMate**는 햄버거 프랜차이즈의 알레르기 성분 정보를 기반으로 사용자의 알레르기 유형에 맞는 안전한 메뉴를 추천하는 **RAG 기반 AI 챗봇**입니다.  
@@ -14,7 +14,7 @@
 
 <p align="center">
   <video controls width="80%">
-    <source src="uploads/버거메이트시연영상.mov" type="video/mp4">
+    <source src="images/버거메이트시연영상.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -38,7 +38,7 @@
 ## 🧠 임베딩 모델 성능 평가
 
 <p align="center">
-  <img src="/uploads/임베딩모델성능평가.png" alt="임베딩 모델 성능 평가" width="60%">
+  <img src="/images/임베딩모델성능평가.png" alt="임베딩 모델 성능 평가" width="60%">
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📊 벡터 DB 기반 성능 비교
 
 <p align="center">
-  <img src="/uploads/벡터DB성평가.jpg" alt="벡터 DB 성능 비교" width="60%">
+  <img src="/images/벡터DB성평가.jpg" alt="벡터 DB 성능 비교" width="60%">
 </p>
 
 ---
