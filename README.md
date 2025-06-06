@@ -10,13 +10,10 @@
 
 ---
 
-## 🎥 데모 영상
+## 🎥 데모
 
 <p align="center">
-  <video controls width="80%">
-    <source src="images/버거메이트시연영상.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="/images/버거메이트.gif" alt="버거메이트 시연 GIF" width="80%">
 </p>
 
 ---
