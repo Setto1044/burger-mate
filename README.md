@@ -1,6 +1,9 @@
 # 🍔 BurgerMate
 ## 알레르기 기반 햄버거 추천 챗봇
 
+**BurgerMate**는 햄버거 프랜차이즈의 알레르기 성분 정보를 기반으로 사용자의 알레르기 유형에 맞는 안전한 메뉴를 추천하는 **RAG 기반 AI 챗봇**입니다.  
+또한 다양한 **리트리버 조합(Dense, Sparse, Ensemble)** 및 **벡터 DB(Pinecone, FAISS, Milvus)**를 비교 평가하고 시각화합니다.
+
 ## 🎥 데모
 
 <p align="center">
@@ -27,9 +30,6 @@
 <p align="center">
   <img src="/images/리트리버성능평가.png" alt="리트리버 성능 평가" width="70%">
 </p>
-
-**BurgerMate**는 햄버거 프랜차이즈의 알레르기 성분 정보를 기반으로 사용자의 알레르기 유형에 맞는 안전한 메뉴를 추천하는 **RAG 기반 AI 챗봇**입니다.  
-또한 다양한 **리트리버 조합(Dense, Sparse, Ensemble)** 및 **벡터 DB(Pinecone, FAISS, Milvus)**를 비교 평가하고 시각화합니다.
 
 ---
 
