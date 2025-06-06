@@ -1,4 +1,5 @@
-# 🍔 BurgerMate: 알레르기 기반 햄버거 추천 챗봇 & 리트리버 성능 평가
+# 🍔 BurgerMate
+## 알레르기 기반 햄버거 추천 챗봇 & 리트리버 성능 평가
 
 <p align="center">
   <img src="/uploads/리트리버성능평가.png" alt="리트리버 성능 평가" width="70%">
